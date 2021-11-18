@@ -1,0 +1,14 @@
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\bin\Debug\netcoreapp3.1\MyAnimal.exe
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\bin\Debug\netcoreapp3.1\MyAnimal.deps.json
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\bin\Debug\netcoreapp3.1\MyAnimal.runtimeconfig.json
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\bin\Debug\netcoreapp3.1\MyAnimal.runtimeconfig.dev.json
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\bin\Debug\netcoreapp3.1\MyAnimal.dll
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\bin\Debug\netcoreapp3.1\MyAnimal.pdb
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.csproj.AssemblyReference.cache
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.AssemblyInfoInputs.cache
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.AssemblyInfo.cs
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.csproj.CoreCompileInputs.cache
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.dll
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.pdb
+C:\Users\Ounce\source\repos\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.genruntimeconfig.cache
